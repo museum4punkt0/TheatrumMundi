@@ -27,4 +27,4 @@ Current supported Unity version: **2020.3.8f1**
 
 ## Lizenz / License
 
-GNU
+<a href="#">GNU GPL-3.0 license</a> 
