@@ -27,4 +27,4 @@ Current supported Unity version: **2020.3.8f1**
 
 ## Lizenz / License
 
-<a href="#">GNU GPL-3.0 license</a> 
+<a href="https://github.com/museum4punkt0/TheatrumMundi/blob/main/LICENSE">GNU GPL-3.0 license</a> 
