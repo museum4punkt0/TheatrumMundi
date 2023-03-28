@@ -3,12 +3,15 @@
 ## Inhaltsverzeichnis
 
 * [Kurzbeschreibung](#Kurzbeschreibung)
+* [Entstehungskontext](#Entstehungskontext)
 * [Installation](#Installation)
 * [Credits](#Credits)
 
 ## Kurzbeschreibung
 
 Beim Theatrum mundi handelt es sich um einanimiertes 3D-Modell eines mechanischen Welttheaters.
+
+## Entstehungskontext
 
 Das Theatrum mundi ist entstanden im Verbundprojekt museum4punkt0 – Digitale Strategien für das Museum der Zukunft, Teilprojekt "Forschung in Museen erklären, verstehen, mitmachen".
 Das Projekt museum4punkt0 wird gefördert durch die Beauftragte der Bundesregierung für Kultur und Medien aufgrund eines Beschlusses des Deutschen Bundestages.
